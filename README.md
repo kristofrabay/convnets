@@ -8,6 +8,8 @@ I've processed images, trained a CNN using InceptionV3 as transfer learning and 
 Here're some of the predictions the ConvNet is making:
 
 <img src='https://github.com/kristofrabay/convnets/blob/main/extra_photos/dog_predictions.PNG' width = 800>
+<img src='https://github.com/kristofrabay/convnets/blob/main/extra_photos/cat_predictions.PNG' width = 800>
+
 
 
 ## Evaluation
