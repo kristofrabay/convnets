@@ -9,10 +9,13 @@ Here're some of the predictions the ConvNet is making:
 
 <img src='https://github.com/kristofrabay/convnets/blob/main/extra_photos/dog_predictions.PNG' width = 800>
 
-Here's the confusion matrix on the test set:
-
-<img src='https://github.com/kristofrabay/convnets/blob/main/extra_photos/confusion_matrix.PNG' width = 300>
 
 ## Evaluation
 
-TODO grad-CAM on test images to see what the CNN is *looking for* in an image
+Here's the confusion matrix on the test set:
+
+<img src='https://github.com/kristofrabay/convnets/blob/main/extra_photos/confusion_matrix.PNG' width = 350>
+
+Used grad-CAM to see what the neural net is *looking for* in an image up until the final dense layers where all spatial information gets lost:
+
+<img src='https://github.com/kristofrabay/convnets/blob/main/extra_photos/gradcam_activations.PNG' width = 300>
